@@ -179,7 +179,7 @@ private void initTable() {
 
 Finalmente, toda essa lógica descrita aqui produzirá a seguinte janela:
 
-<img src="https://github.com/isaccanedo/Introduction-to-JavaFx/blob/master/Janela.png">
+<img src="Janela.png">
 
 # 4. API de ligação
 Agora que os aspectos visuais foram tratados, vamos começar a olhar para os dados de ligação.
